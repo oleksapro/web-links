@@ -21,3 +21,7 @@ It is my archive with helpful links about modern web.
 ## Flexbox
 
 [solved-by-flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+
+## Team
+
+[токсичность-и-лидерство](https://vc.ru/amp/98611)
