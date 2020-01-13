@@ -13,3 +13,7 @@ It is my archive with helpful links about modern web.
 ## Browsers
 
 [inside-browser-part1](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+
+## Flexbox
+
+[solved-by-flexbox](https://philipwalton.github.io/solved-by-flexbox/)
