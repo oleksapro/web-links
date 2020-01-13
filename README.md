@@ -4,7 +4,7 @@ It is my archive with helpful links about modern web.
 
 ## Books of reference
 
-[https://web.dev](web.dev)
+[web.dev](https://web.dev)
 
 ## Performance
 
