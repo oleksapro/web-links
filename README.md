@@ -6,6 +6,8 @@ It is my archive with helpful links about modern web.
 
 [web.dev](https://web.dev)
 
+[mdn-core-js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
 ## Blogs
 
 [learnwithparam.com](https://learnwithparam.com/)
