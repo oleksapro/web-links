@@ -24,6 +24,8 @@ It is my archive with helpful links about modern web.
 
 [solved-by-flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 
+[holy-grail-layout](https://flexbox.ninja/demos/holy-grail-layout/)
+
 ## Team
 
 [токсичность-и-лидерство](https://vc.ru/amp/98611)
