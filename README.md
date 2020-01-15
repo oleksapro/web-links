@@ -31,3 +31,7 @@ It is my archive with helpful links about modern web.
 ## Team
 
 [токсичность-и-лидерство](https://vc.ru/amp/98611)
+
+## Tests
+
+[introducing-the-react-testing-library](https://kentcdodds.com/blog/introducing-the-react-testing-library)
