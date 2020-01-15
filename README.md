@@ -35,3 +35,7 @@ It is my archive with helpful links about modern web.
 ## Tests
 
 [introducing-the-react-testing-library](https://kentcdodds.com/blog/introducing-the-react-testing-library)
+
+## Online small helpers
+
+[tiny-helpers.dev](https://tiny-helpers.dev/)
