@@ -39,3 +39,5 @@ It is my archive with helpful links about modern web.
 ## Online small helpers
 
 [tiny-helpers.dev](https://tiny-helpers.dev/)
+
+[mycolor.space/gradient3](https://mycolor.space/gradient3)
