@@ -47,3 +47,7 @@ It is my archive with helpful links about modern web.
 [underdash](https://surma.github.io/underdash/)
 
 [30secondsofcode.org](https://www.30secondsofcode.org/)
+
+## Ratings
+
+[bestofjs.org](https://bestofjs.org/)
