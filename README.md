@@ -41,3 +41,7 @@ It is my archive with helpful links about modern web.
 [tiny-helpers.dev](https://tiny-helpers.dev/)
 
 [mycolor.space/gradient3](https://mycolor.space/gradient3)
+
+## JS snippets
+
+[underdash](https://surma.github.io/underdash/)
