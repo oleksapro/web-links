@@ -28,6 +28,10 @@ It is my archive with helpful links about modern web.
 
 [holy-grail-layout](https://flexbox.ninja/demos/holy-grail-layout/)
 
+## Colors
+
+[hsl-color-representation-in-css](https://tsh.io/blog/why-should-you-use-hsl-color-representation-in-css/)
+
 ## Team
 
 [токсичность-и-лидерство](https://vc.ru/amp/98611)
