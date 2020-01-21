@@ -59,3 +59,7 @@ It is my archive with helpful links about modern web.
 ## Ratings
 
 [bestofjs.org](https://bestofjs.org/)
+
+## UI elements own realization
+
+[building-a-virtualized-list-from-scratch](https://medium.com/ingeniouslysimple/building-a-virtualized-list-from-scratch-9225e8bec120)
