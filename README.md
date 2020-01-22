@@ -18,6 +18,8 @@ It is my archive with helpful links about modern web.
 
 [front-end-performance-checklist-2020-pdf-pages](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
 
+[loading-web-pages-fast-on-a-20-feature-phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6)
+
 ## Browsers
 
 [inside-browser-part1](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
