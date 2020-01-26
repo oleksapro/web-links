@@ -73,3 +73,5 @@ It is my archive with helpful links about modern web.
 ## Node.js
 
 [курс-2020](https://m.habr.com/ru/post/485294/)
+
+[node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app)
