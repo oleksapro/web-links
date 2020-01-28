@@ -83,3 +83,7 @@ It is my archive with helpful links about modern web.
 ## Regex
 
 [regexcrossword.com](https://regexcrossword.com/)
+
+## Articles
+
+[javascript-visualized-event-loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
