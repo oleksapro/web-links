@@ -87,3 +87,7 @@ It is my archive with helpful links about modern web.
 ## Articles
 
 [javascript-visualized-event-loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+
+[autofill-deep-dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
+
+[puppeteer-end-to-end-testing](https://www.sitepoint.com/puppeteer-end-to-end-testing/)
