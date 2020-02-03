@@ -72,6 +72,8 @@ It is my archive with helpful links about modern web.
 
 [implementing-a-simple-state-machine-library-in-javascript](https://kentcdodds.com/blog/implementing-a-simple-state-machine-library-in-javascript)
 
+[the-best-practice-with-google-place-autocomplete-api-on-react](https://medium.com/@gapur.kassym/the-best-practice-with-google-place-autocomplete-api-on-react-939211e8b4ce)
+
 ## UI elements, libraries
 
 [tingle](https://github.com/robinparisi/tingle)
