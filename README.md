@@ -58,7 +58,7 @@ It is my archive with helpful links about modern web.
 
 [30secondsofcode.org](https://www.30secondsofcode.org/)
 
-# Code quality
+## Code quality
 
 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md#solid)
 
