@@ -97,3 +97,7 @@ It is my archive with helpful links about modern web.
 ## Articles already read
 
 [autofill-deep-dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
+
+To learn
+
+[kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
