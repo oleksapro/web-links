@@ -108,4 +108,4 @@ It is my archive with helpful links about modern web.
 
 [kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 
-[https://kentcdodds.com/blog/how-to-use-react-context-effectively](how-to-use-react-context-effectively)
+[how-to-use-react-context-effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
