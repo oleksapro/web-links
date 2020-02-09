@@ -78,6 +78,10 @@ It is my archive with helpful links about modern web.
 
 [tingle](https://github.com/robinparisi/tingle)
 
+## Libraries
+
+[typedi-dependency-injection-tool](https://www.npmjs.com/package/typedi)
+
 ## Node.js
 
 [курс-2020](https://m.habr.com/ru/post/485294/)
