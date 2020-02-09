@@ -2,7 +2,7 @@
 
 It is my archive with helpful links about modern web.
 
-## Favourit tools
+## Favourite tools
 
 VS Code
 
