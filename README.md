@@ -84,6 +84,8 @@ It is my archive with helpful links about modern web.
 
 [node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app)
 
+[ideal-nodejs-project-structure](https://softwareontheroad.com/ideal-nodejs-project-structure/)
+
 ## Regex
 
 [regexcrossword.com](https://regexcrossword.com/)
