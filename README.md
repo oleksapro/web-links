@@ -121,3 +121,5 @@ DBeaber
 [how-to-use-react-context-effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 
 [naked-promises-are-not-safe-for-work](https://www.freecodecamp.org/news/naked-promises-are-not-safe-for-work)
+
+[teoriya-cveta-dlya-veba-i-prilozheniy](https://proglib.io/p/kazhdyy-ohotnik-zhelaet-znat-teoriya-cveta-dlya-veba-i-prilozheniy-2020-02-12)
