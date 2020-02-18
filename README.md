@@ -60,6 +60,8 @@ DBeaber
 
 [csstriggers.com](https://csstriggers.com/)
 
+[gitexplorer](https://gitexplorer.com/)
+
 ## JS snippets
 
 [underdash](https://surma.github.io/underdash/)
