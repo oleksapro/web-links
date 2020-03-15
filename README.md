@@ -34,6 +34,10 @@ DBeaber
 
 [browser-2020](https://github.com/luruke/browser-2020)
 
+## VS Code
+
+[codetour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
+
 ## Flexbox
 
 [solved-by-flexbox](https://philipwalton.github.io/solved-by-flexbox/)
