@@ -112,6 +112,10 @@ DBeaber
 
 [regexcrossword.com](https://regexcrossword.com/)
 
+## Interview
+
+[ultimate-list-of-javascript-interview-questions](https://blog.soshace.com/ultimate-list-of-javascript-interview-questions/)
+
 ## Articles to be read
 
 [javascript-visualized-event-loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
