@@ -126,6 +126,8 @@ DBeaber
 
 [autofill-deep-dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
 
+[secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading](https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f)
+
 ## To read
 
 [kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
