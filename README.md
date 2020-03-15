@@ -123,3 +123,7 @@ DBeaber
 [naked-promises-are-not-safe-for-work](https://www.freecodecamp.org/news/naked-promises-are-not-safe-for-work)
 
 [teoriya-cveta-dlya-veba-i-prilozheniy](https://proglib.io/p/kazhdyy-ohotnik-zhelaet-znat-teoriya-cveta-dlya-veba-i-prilozheniy-2020-02-12)
+
+## Webpack
+
+[speed-measure-webpack-plugin](https://www.npmjs.com/package/speed-measure-webpack-plugin)
