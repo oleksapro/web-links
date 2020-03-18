@@ -137,3 +137,5 @@ DBeaber
 [naked-promises-are-not-safe-for-work](https://www.freecodecamp.org/news/naked-promises-are-not-safe-for-work)
 
 [teoriya-cveta-dlya-veba-i-prilozheniy](https://proglib.io/p/kazhdyy-ohotnik-zhelaet-znat-teoriya-cveta-dlya-veba-i-prilozheniy-2020-02-12)
+
+[8-simple-steps-to-start-testing-react-apps](https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest)
