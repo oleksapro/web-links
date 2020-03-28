@@ -130,6 +130,8 @@ DBeaber
 
 ## To read
 
+[testing-nodejs-express-api-with-jest-and-supertest](https://dev.to/nedsoft/testing-nodejs-express-api-with-jest-and-supertest-1km6)
+
 [keyof-typeof-and-capturing-types](https://mrgregory.dev/posts/keyof-typeof-and-capturing-types)
 
 [kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
