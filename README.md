@@ -132,6 +132,8 @@ DBeaber
 
 ## To read
 
+[sequelize-mocking-with-jest-and-node](https://medium.com/@kvr2277/sequelize-mocking-with-jest-and-node-933c1f439579)
+
 [testing-nodejs-express-api-with-jest-and-supertest](https://dev.to/nedsoft/testing-nodejs-express-api-with-jest-and-supertest-1km6)
 
 [keyof-typeof-and-capturing-types](https://mrgregory.dev/posts/keyof-typeof-and-capturing-types)
