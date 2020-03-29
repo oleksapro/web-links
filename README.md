@@ -56,6 +56,8 @@ DBeaber
 
 [introducing-the-react-testing-library](https://kentcdodds.com/blog/introducing-the-react-testing-library)
 
+[sequelize-mock](https://sequelize-mock.readthedocs.io/en/stable/)
+
 ## Online helpers
 
 [tiny-helpers.dev](https://tiny-helpers.dev/)
