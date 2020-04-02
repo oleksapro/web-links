@@ -132,9 +132,9 @@ DBeaber
 
 [understanding-ref-forwarding-in-react](https://blog.bitsrc.io/understanding-ref-forwarding-in-react-80accd93ed74)
 
-## To read
+[debug-node-app-tips-tricks-tools](https://www.sitepoint.com/debug-node-app-tips-tricks-tools)
 
-[https://www.sitepoint.com/debug-node-app-tips-tricks-tools](https://www.sitepoint.com/debug-node-app-tips-tricks-tools/)
+## To read
 
 [sequelize-mocking-with-jest-and-node](https://medium.com/@kvr2277/sequelize-mocking-with-jest-and-node-933c1f439579)
 
