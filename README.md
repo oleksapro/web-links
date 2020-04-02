@@ -134,6 +134,8 @@ DBeaber
 
 [debug-node-app-tips-tricks-tools](https://www.sitepoint.com/debug-node-app-tips-tricks-tools)
 
+[how-to-use-react-context-effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+
 ## To read
 
 [sequelize-mocking-with-jest-and-node](https://medium.com/@kvr2277/sequelize-mocking-with-jest-and-node-933c1f439579)
@@ -143,8 +145,6 @@ DBeaber
 [keyof-typeof-and-capturing-types](https://mrgregory.dev/posts/keyof-typeof-and-capturing-types)
 
 [kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
-
-[how-to-use-react-context-effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 
 [naked-promises-are-not-safe-for-work](https://www.freecodecamp.org/news/naked-promises-are-not-safe-for-work)
 
