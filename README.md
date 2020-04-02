@@ -130,6 +130,8 @@ DBeaber
 
 [secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading](https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f)
 
+[understanding-ref-forwarding-in-react](https://blog.bitsrc.io/understanding-ref-forwarding-in-react-80accd93ed74)
+
 ## To read
 
 [https://www.sitepoint.com/debug-node-app-tips-tricks-tools](https://www.sitepoint.com/debug-node-app-tips-tricks-tools/)
