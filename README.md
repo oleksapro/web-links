@@ -140,6 +140,8 @@ DBeaber
 
 [naked-promises-are-not-safe-for-work](https://www.freecodecamp.org/news/naked-promises-are-not-safe-for-work)
 
+[handling-null-and-undefined-in-javascript](https://medium.com/javascript-scene/handling-null-and-undefined-in-javascript-1500c65d51ae)
+
 ## To read
 
 [8-simple-steps-to-start-testing-react-apps](https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest)
