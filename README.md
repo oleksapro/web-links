@@ -138,16 +138,12 @@ DBeaber
 
 [keyof-typeof-and-capturing-types](https://mrgregory.dev/posts/keyof-typeof-and-capturing-types)
 
+[naked-promises-are-not-safe-for-work](https://www.freecodecamp.org/news/naked-promises-are-not-safe-for-work)
+
 ## To read
 
-[sequelize-mocking-with-jest-and-node](https://medium.com/@kvr2277/sequelize-mocking-with-jest-and-node-933c1f439579)
-
-[testing-nodejs-express-api-with-jest-and-supertest](https://dev.to/nedsoft/testing-nodejs-express-api-with-jest-and-supertest-1km6)
+[8-simple-steps-to-start-testing-react-apps](https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest)
 
 [kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 
-[naked-promises-are-not-safe-for-work](https://www.freecodecamp.org/news/naked-promises-are-not-safe-for-work)
-
 [teoriya-cveta-dlya-veba-i-prilozheniy](https://proglib.io/p/kazhdyy-ohotnik-zhelaet-znat-teoriya-cveta-dlya-veba-i-prilozheniy-2020-02-12)
-
-[8-simple-steps-to-start-testing-react-apps](https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest)
