@@ -142,10 +142,10 @@ DBeaber
 
 [handling-null-and-undefined-in-javascript](https://medium.com/javascript-scene/handling-null-and-undefined-in-javascript-1500c65d51ae)
 
+[teoriya-cveta-dlya-veba-i-prilozheniy](https://proglib.io/p/kazhdyy-ohotnik-zhelaet-znat-teoriya-cveta-dlya-veba-i-prilozheniy-2020-02-12)
+
 ## To read
 
 [8-simple-steps-to-start-testing-react-apps](https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest)
 
 [kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
-
-[teoriya-cveta-dlya-veba-i-prilozheniy](https://proglib.io/p/kazhdyy-ohotnik-zhelaet-znat-teoriya-cveta-dlya-veba-i-prilozheniy-2020-02-12)
