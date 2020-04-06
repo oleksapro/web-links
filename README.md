@@ -124,6 +124,10 @@ DBeaber
 
 [puppeteer-end-to-end-testing](https://www.sitepoint.com/puppeteer-end-to-end-testing/)
 
+[8-simple-steps-to-start-testing-react-apps](https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest)
+
+[kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
+
 ## Articles already read
 
 [autofill-deep-dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
@@ -144,8 +148,4 @@ DBeaber
 
 [teoriya-cveta-dlya-veba-i-prilozheniy](https://proglib.io/p/kazhdyy-ohotnik-zhelaet-znat-teoriya-cveta-dlya-veba-i-prilozheniy-2020-02-12)
 
-## To read
-
-[8-simple-steps-to-start-testing-react-apps](https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest)
-
-[kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
+[api-style-guide](https://m.habr.com/ru/company/wrike/blog/495364/)
