@@ -128,6 +128,8 @@ DBeaber
 
 [kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 
+[архитектура-фронтенда-малый-круг](https://medium.com/front-end-in-regions-grodno/архитектура-фронтенда-малый-круг-463da9064a32)
+
 ## Articles already read
 
 [autofill-deep-dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
