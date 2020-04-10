@@ -134,6 +134,8 @@ DBeaber
 
 [react-debugging-session-hundreds-of-function-calls](https://jkettmann.com/react-debugging-session-hundreds-of-function-calls)
 
+[advanced-pagespeed-guide](https://ahrefs.com/blog/advanced-pagespeed-guide)
+
 ## Articles already read
 
 [autofill-deep-dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
