@@ -130,6 +130,8 @@ DBeaber
 
 [архитектура-фронтенда-малый-круг](https://medium.com/front-end-in-regions-grodno/архитектура-фронтенда-малый-круг-463da9064a32)
 
+[тесты-которые-должен-писать-разработчик](https://medium.com/front-end-in-regions-grodno/тесты-которые-должен-писать-разработчик-a04cab35f45b)
+
 ## Articles already read
 
 [autofill-deep-dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
