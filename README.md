@@ -132,6 +132,8 @@ DBeaber
 
 [тесты-которые-должен-писать-разработчик](https://medium.com/front-end-in-regions-grodno/тесты-которые-должен-писать-разработчик-a04cab35f45b)
 
+[react-debugging-session-hundreds-of-function-calls](https://jkettmann.com/react-debugging-session-hundreds-of-function-calls)
+
 ## Articles already read
 
 [autofill-deep-dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
