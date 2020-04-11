@@ -157,3 +157,5 @@ DBeaber
 [teoriya-cveta-dlya-veba-i-prilozheniy](https://proglib.io/p/kazhdyy-ohotnik-zhelaet-znat-teoriya-cveta-dlya-veba-i-prilozheniy-2020-02-12)
 
 [api-style-guide](https://m.habr.com/ru/company/wrike/blog/495364/)
+
+[covert-unix-windows-mac-line-endings](https://blog.shvetsov.com/2012/04/covert-unix-windows-mac-line-endings.html)
