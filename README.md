@@ -163,3 +163,5 @@ DBeaber
 [api-style-guide](https://m.habr.com/ru/company/wrike/blog/495364/)
 
 [covert-unix-windows-mac-line-endings](https://blog.shvetsov.com/2012/04/covert-unix-windows-mac-line-endings.html)
+
+[express-api-using-webpack-and-typescript](https://medium.com/the-andela-way/how-to-set-up-an-express-api-using-webpack-and-typescript-69d18c8c4f52)
