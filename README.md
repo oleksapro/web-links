@@ -110,6 +110,10 @@ DBeaber
 
 [ideal-nodejs-project-structure](https://softwareontheroad.com/ideal-nodejs-project-structure/)
 
+## Node.js Packages
+
+[concurrently](https://github.com/kimmobrunfeldt/concurrently)
+
 ## Regex
 
 [regexcrossword.com](https://regexcrossword.com/)
