@@ -102,6 +102,10 @@ DBeaber
 
 [speed-measure-webpack-plugin](https://www.npmjs.com/package/speed-measure-webpack-plugin)
 
+## React
+
+[profiling-react-js](https://addyosmani.com/blog/profiling-react-js/)
+
 ## Node.js
 
 [курс-2020](https://m.habr.com/ru/post/485294/)
