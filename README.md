@@ -1,14 +1,20 @@
 # Web links
 
-It is my archive with helpful links about modern web.
+The repository is my archive with helpful links about modern web.
 
 ## Favourite tools
+
+Google Chrome
 
 VS Code
 
 Postman
 
 DBeaber
+
+Git
+
+KeePassX
 
 ## Books of reference
 
