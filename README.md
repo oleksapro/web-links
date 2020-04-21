@@ -74,6 +74,10 @@ KeePassX
 
 [gitexplorer](https://gitexplorer.com/)
 
+[better-mobile-inputs](https://better-mobile-inputs.netlify.app/)
+
+[easings.net](https://easings.net)
+
 ## JS snippets
 
 [underdash](https://surma.github.io/underdash/)
@@ -131,6 +135,8 @@ KeePassX
 ## Interview
 
 [ultimate-list-of-javascript-interview-questions](https://blog.soshace.com/ultimate-list-of-javascript-interview-questions/)
+
+[my-favorite-css-interview-questions-with-detailed-answers](https://dev.to/melnik909/my-favorite-css-interview-questions-with-detailed-answers-part-i-css-selectors-4gk0)
 
 ## Articles to read
 
