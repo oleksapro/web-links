@@ -177,3 +177,5 @@ KeePassX
 [covert-unix-windows-mac-line-endings](https://blog.shvetsov.com/2012/04/covert-unix-windows-mac-line-endings.html)
 
 [express-api-using-webpack-and-typescript](https://medium.com/the-andela-way/how-to-set-up-an-express-api-using-webpack-and-typescript-69d18c8c4f52)
+
+[nodejs-typescript](https://developer.okta.com/blog/2019/09/19/nodejs-typescript)
