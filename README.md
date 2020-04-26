@@ -158,6 +158,8 @@ KeePassX
 
 [a-practical-guide-to-writing-technical-specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs)
 
+[what-restful-actually-means]https://codewords.recurse.com/issues/five/what-restful-actually-means
+
 ## Articles already read
 
 [autofill-deep-dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
