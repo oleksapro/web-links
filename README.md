@@ -34,6 +34,10 @@ KeePassX
 
 [loading-web-pages-fast-on-a-20-feature-phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6)
 
+## Security
+
+[frontend-security](https://m.habr.com/ru/company/first/blog/497342/)
+
 ## Browsers
 
 [inside-browser-part1](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
