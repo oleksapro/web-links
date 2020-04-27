@@ -195,3 +195,8 @@ KeePassX
 [express-api-using-webpack-and-typescript](https://medium.com/the-andela-way/how-to-set-up-an-express-api-using-webpack-and-typescript-69d18c8c4f52)
 
 [nodejs-typescript](https://developer.okta.com/blog/2019/09/19/nodejs-typescript)
+
+## Video to watch
+
+[SOLID Принципы в JavaScript](https://www.youtube.com/watch?v=xq13wiqvcTc)
+
