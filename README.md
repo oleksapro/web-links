@@ -112,6 +112,8 @@ KeePassX
 
 [the-best-practice-with-google-place-autocomplete-api-on-react](https://medium.com/@gapur.kassym/the-best-practice-with-google-place-autocomplete-api-on-react-939211e8b4ce)
 
+[css-scrollbar-with-progress-meter](https://css-tricks.com/css-scrollbar-with-progress-meter/)
+
 ## UI elements, libraries
 
 [tingle](https://github.com/robinparisi/tingle)
