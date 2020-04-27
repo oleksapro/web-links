@@ -166,7 +166,7 @@ KeePassX
 
 [a-practical-guide-to-writing-technical-specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs)
 
-[what-restful-actually-means]https://codewords.recurse.com/issues/five/what-restful-actually-means
+[what-restful-actually-means](https://codewords.recurse.com/issues/five/what-restful-actually-means)
 
 [layout-isolated-components](https://visly.app/blog/layout-isolated-components)
 
