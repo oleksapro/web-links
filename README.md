@@ -213,3 +213,5 @@ KeePassX
 [nodejs-typescript](https://developer.okta.com/blog/2019/09/19/nodejs-typescript)
 
 [search-ui-tricks](http://mikeozornin.ru/blog/all/search-ui-tricks/)
+
+[finite-state-machines-with-react/](https://css-tricks.com/finite-state-machines-with-react)
