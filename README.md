@@ -178,6 +178,8 @@ KeePassX
 
 [react-typescript-cheetsheet](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
 
+[write-clean-er-components](https://itnext.io/write-clean-er-components-jsx-1e70491baded)
+
 ## Video to watch
 
 [SOLID Принципы в JavaScript](https://www.youtube.com/watch?v=xq13wiqvcTc)
