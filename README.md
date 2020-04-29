@@ -176,6 +176,8 @@ KeePassX
 
 [layout-isolated-components](https://visly.app/blog/layout-isolated-components)
 
+[react-typescript-cheetsheet](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
+
 ## Video to watch
 
 [SOLID Принципы в JavaScript](https://www.youtube.com/watch?v=xq13wiqvcTc)
