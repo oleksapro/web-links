@@ -22,6 +22,8 @@ KeePassX
 
 [mdn-core-js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
+[web-skills](https://andreasbm.github.io/web-skills/)
+
 ## Blogs
 
 [learnwithparam.com](https://learnwithparam.com/)
@@ -125,6 +127,10 @@ KeePassX
 [multer](https://www.npmjs.com/package/multer)
 
 [speed-measure-webpack-plugin](https://www.npmjs.com/package/speed-measure-webpack-plugin)
+
+[storybook](https://github.com/storybookjs/storybook)
+
+[xstate](https://github.com/davidkpiano/xstate)
 
 ## React
 
