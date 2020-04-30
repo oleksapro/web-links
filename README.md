@@ -132,6 +132,10 @@ KeePassX
 
 [xstate](https://github.com/davidkpiano/xstate)
 
+### React
+
+[vidact](https://github.com/mohebifar/vidact)
+
 ## React
 
 [profiling-react-js](https://addyosmani.com/blog/profiling-react-js/)
