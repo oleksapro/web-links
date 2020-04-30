@@ -186,6 +186,8 @@ KeePassX
 
 [write-clean-er-components](https://itnext.io/write-clean-er-components-jsx-1e70491baded)
 
+[responsive-images-the-simple-way](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
+
 ## Video to watch
 
 [SOLID Принципы в JavaScript](https://www.youtube.com/watch?v=xq13wiqvcTc)
