@@ -128,13 +128,13 @@ KeePassX
 
 [speed-measure-webpack-plugin](https://www.npmjs.com/package/speed-measure-webpack-plugin)
 
-[storybook](https://github.com/storybookjs/storybook)
-
 [xstate](https://github.com/davidkpiano/xstate)
 
 ### React
 
 [vidact](https://github.com/mohebifar/vidact)
+
+[storybook](https://github.com/storybookjs/storybook)
 
 ## React
 
