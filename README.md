@@ -227,3 +227,5 @@ KeePassX
 [search-ui-tricks](http://mikeozornin.ru/blog/all/search-ui-tricks/)
 
 [finite-state-machines-with-react/](https://css-tricks.com/finite-state-machines-with-react)
+
+[sekrety-sozdaniya-proizvoditelnyh-veb-prilozheniy-na-express-js](https://proglib.io/p/sekrety-sozdaniya-proizvoditelnyh-veb-prilozheniy-na-express-js-2020-05-06)
