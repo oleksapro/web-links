@@ -12,6 +12,8 @@ Postman
 
 DBeaber
 
+Inkscape
+
 Git
 
 KeePassX
