@@ -166,7 +166,7 @@ KeePassX
 
 ## Articles to read
 
-[https://medium.com/javascript-in-plain-english/all-in-one-tutorial-on-how-to-create-the-authentication-part-of-your-react-app-2530e7435629](https://medium.com/all-in-one-tutorial-on-how-to-create-the-authentication-part-of-your-react-app)
+[all-in-one-tutorial-on-how-to-create-the-authentication-part-of-your-react-app](https://medium.com/javascript-in-plain-english/all-in-one-tutorial-on-how-to-create-the-authentication-part-of-your-react-app-2530e7435629)
 
 [javascript-visualized-event-loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
