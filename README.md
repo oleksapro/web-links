@@ -14,6 +14,8 @@ DBeaber
 
 Inkscape
 
+Photopea
+
 Git
 
 KeePassX
@@ -163,6 +165,8 @@ KeePassX
 [ultimate-list-of-javascript-interview-questions](https://blog.soshace.com/ultimate-list-of-javascript-interview-questions/)
 
 [my-favorite-css-interview-questions-with-detailed-answers](https://dev.to/melnik909/my-favorite-css-interview-questions-with-detailed-answers-part-i-css-selectors-4gk0)
+
+[askabout.company](https://askabout.company/)
 
 ## Articles to read
 
