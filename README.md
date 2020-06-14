@@ -60,6 +60,8 @@ KeePassX
 
 [holy-grail-layout](https://flexbox.ninja/demos/holy-grail-layout/)
 
+[the-complete-css-flex-box-tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
+
 ## Colors
 
 [hsl-color-representation-in-css](https://tsh.io/blog/why-should-you-use-hsl-color-representation-in-css/)
