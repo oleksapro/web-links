@@ -172,6 +172,8 @@ KeePassX
 
 ## Articles to read
 
+[polymorphism](https://medium.com/devschacht/polymorphism-207d9f9cd78)
+
 [all-in-one-tutorial-on-how-to-create-the-authentication-part-of-your-react-app](https://medium.com/javascript-in-plain-english/all-in-one-tutorial-on-how-to-create-the-authentication-part-of-your-react-app-2530e7435629)
 
 [javascript-visualized-event-loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
