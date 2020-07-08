@@ -241,3 +241,5 @@ KeePassX
 [finite-state-machines-with-react/](https://css-tricks.com/finite-state-machines-with-react)
 
 [sekrety-sozdaniya-proizvoditelnyh-veb-prilozheniy-na-express-js](https://proglib.io/p/sekrety-sozdaniya-proizvoditelnyh-veb-prilozheniy-na-express-js-2020-05-06)
+
+[computing-with-types](https://2ality.com/2020/06/computing-with-types.html)
