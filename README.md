@@ -82,6 +82,8 @@ KeePassX
 
 [gitexplorer](https://gitexplorer.com/)
 
+[html-cleaner](https://html-cleaner.com/)
+
 ### Server
 
 [sslforfree](https://www.sslforfree.com/)
