@@ -249,3 +249,5 @@ KeePassX
 [sekrety-sozdaniya-proizvoditelnyh-veb-prilozheniy-na-express-js](https://proglib.io/p/sekrety-sozdaniya-proizvoditelnyh-veb-prilozheniy-na-express-js-2020-05-06)
 
 [computing-with-types](https://2ality.com/2020/06/computing-with-types.html)
+
+[infinite-scroll-without-layout-shifts](https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/)
