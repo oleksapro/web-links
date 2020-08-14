@@ -251,3 +251,5 @@ KeePassX
 [computing-with-types](https://2ality.com/2020/06/computing-with-types.html)
 
 [infinite-scroll-without-layout-shifts](https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/)
+
+[inherit-initial-unset-revert](https://web-standards.ru/articles/inherit-initial-unset-revert/)
