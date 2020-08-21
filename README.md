@@ -2,6 +2,47 @@
 
 The repository is my archive with helpful links about modern web.
 
+
+## Articles to read
+
+[advice-to-myself-when-starting-as-a-software-developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer)
+
+[polymorphism](https://medium.com/devschacht/polymorphism-207d9f9cd78)
+
+[all-in-one-tutorial-on-how-to-create-the-authentication-part-of-your-react-app](https://medium.com/javascript-in-plain-english/all-in-one-tutorial-on-how-to-create-the-authentication-part-of-your-react-app-2530e7435629)
+
+[javascript-visualized-event-loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+
+[puppeteer-end-to-end-testing](https://www.sitepoint.com/puppeteer-end-to-end-testing/)
+
+[8-simple-steps-to-start-testing-react-apps](https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest)
+
+[kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
+
+[архитектура-фронтенда-малый-круг](https://medium.com/front-end-in-regions-grodno/архитектура-фронтенда-малый-круг-463da9064a32)
+
+[тесты-которые-должен-писать-разработчик](https://medium.com/front-end-in-regions-grodno/тесты-которые-должен-писать-разработчик-a04cab35f45b)
+
+[react-debugging-session-hundreds-of-function-calls](https://jkettmann.com/react-debugging-session-hundreds-of-function-calls)
+
+[advanced-pagespeed-guide](https://ahrefs.com/blog/advanced-pagespeed-guide)
+
+[a-practical-guide-to-writing-technical-specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs)
+
+[what-restful-actually-means](https://codewords.recurse.com/issues/five/what-restful-actually-means)
+
+[layout-isolated-components](https://visly.app/blog/layout-isolated-components)
+
+[react-typescript-cheetsheet](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
+
+[write-clean-er-components](https://itnext.io/write-clean-er-components-jsx-1e70491baded)
+
+[responsive-images-the-simple-way](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
+
+## Video to watch
+
+[SOLID Принципы в JavaScript](https://www.youtube.com/watch?v=xq13wiqvcTc)
+
 ## Favourite tools
 
 Google Chrome
@@ -175,44 +216,6 @@ KeePassX
 [my-favorite-css-interview-questions-with-detailed-answers](https://dev.to/melnik909/my-favorite-css-interview-questions-with-detailed-answers-part-i-css-selectors-4gk0)
 
 [askabout.company](https://askabout.company/)
-
-## Articles to read
-
-[polymorphism](https://medium.com/devschacht/polymorphism-207d9f9cd78)
-
-[all-in-one-tutorial-on-how-to-create-the-authentication-part-of-your-react-app](https://medium.com/javascript-in-plain-english/all-in-one-tutorial-on-how-to-create-the-authentication-part-of-your-react-app-2530e7435629)
-
-[javascript-visualized-event-loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
-
-[puppeteer-end-to-end-testing](https://www.sitepoint.com/puppeteer-end-to-end-testing/)
-
-[8-simple-steps-to-start-testing-react-apps](https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest)
-
-[kubernetes-for-full-stack-developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
-
-[архитектура-фронтенда-малый-круг](https://medium.com/front-end-in-regions-grodno/архитектура-фронтенда-малый-круг-463da9064a32)
-
-[тесты-которые-должен-писать-разработчик](https://medium.com/front-end-in-regions-grodno/тесты-которые-должен-писать-разработчик-a04cab35f45b)
-
-[react-debugging-session-hundreds-of-function-calls](https://jkettmann.com/react-debugging-session-hundreds-of-function-calls)
-
-[advanced-pagespeed-guide](https://ahrefs.com/blog/advanced-pagespeed-guide)
-
-[a-practical-guide-to-writing-technical-specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs)
-
-[what-restful-actually-means](https://codewords.recurse.com/issues/five/what-restful-actually-means)
-
-[layout-isolated-components](https://visly.app/blog/layout-isolated-components)
-
-[react-typescript-cheetsheet](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
-
-[write-clean-er-components](https://itnext.io/write-clean-er-components-jsx-1e70491baded)
-
-[responsive-images-the-simple-way](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
-
-## Video to watch
-
-[SOLID Принципы в JavaScript](https://www.youtube.com/watch?v=xq13wiqvcTc)
 
 ## Articles already read
 
