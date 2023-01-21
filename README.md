@@ -59,7 +59,9 @@ Photopea
 
 Git
 
-KeePassX
+KeePassXC
+
+[Volta](https://github.com/volta-cli/volta)
 
 ## Books of reference
 
